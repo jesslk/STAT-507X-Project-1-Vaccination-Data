@@ -8,7 +8,7 @@ which would affect the transmission.
 The purpose of the project is to clean and visualize vaccination data to explore the underlying dynamics, and investigate how to deal with the
 issues when the data are sparse, incomplete and inconsistent in reporting frequencies. 
 
-US-level historical vaccination data from
+For the whole project, you can make use of the US-level historical vaccination data from
 (https://covid.cdc.gov/covid-data-tracker/#vaccination-trends), state-level daily data from
 (https://covid.cdc.gov/covid-data-tracker/#vaccinations), state-level daily historical data
 from youyanggu’s GitHub, and state-level weekly vaccination data of Pfizer, Moderna,
